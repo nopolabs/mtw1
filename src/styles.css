@@ -12,13 +12,16 @@ nav a {
     height: 300px;
     object-fit: cover;
 }
-
 .products {
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
 }
-
 .product-card {
     width: 300px;
+}
+.product-card .product-title-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
