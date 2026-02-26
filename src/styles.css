@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+}
+.product-card img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.products {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    width: 300px;
+}

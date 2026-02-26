@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Retired Cap",
+    "price": "27.00",
+    "slug": "retired-cap",
+    "image": "/images/retired-cap.jpg"
+  },
+  {
+    "name": "Weekend Warrior Cap",
+    "price": "27.00",
+    "slug": "weekend-warrior-cap",
+    "image": "/images/weekend-warrior.jpg"
+  }
+]

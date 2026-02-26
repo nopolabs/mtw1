@@ -1,0 +1,15 @@
+---
+title: Shop
+layout: layout.njk
+---
+
+<h1>Shop</h1>
+<div class="products">
+  {% for product in products %}
+    <div class="product-card">
+      <img src="{{ product.image }}" alt="{{ product.name }}">
+      <h2>{{ product.name }}</h2>
+      <p>${{ product.price }}</p>
+    </div>
+  {% endfor %}
+</div>
