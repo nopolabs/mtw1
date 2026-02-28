@@ -85,9 +85,3 @@ The Buy Button embed is configured to hide the product image, title, and price (
 
 The Shopify `storefrontAccessToken` in the client-side JS is intentionally public — this is by design in Shopify's architecture.
 
-## Going live checklist
-
-- [ ] Verify Printful products are correct color/variant
-- [ ] Test full checkout flow with a real card
-- [ ] Point mastertimewaster.com DNS to Cloudflare Pages (when ready to replace Squarespace)
-- [ ] Cancel Squarespace subscription
