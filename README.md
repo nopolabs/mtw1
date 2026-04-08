@@ -1,8 +1,10 @@
 # mtw1 — MasterTimeWaster (Option 1: Shopify)
 
+> **Disabled April 2026.** This was a proof-of-concept using Shopify Buy Buttons. The site has been shut down in favour of [mtw4](../mtw4) which uses Stripe + Cloudflare Workers with no Shopify dependency. mastertimewaster.shop now 301 redirects to mastertimewaster.com.
+
 A static ecommerce site built with Eleventy and deployed to Cloudflare Pages, using Shopify Starter's Buy Button for cart and checkout, and Printful for print-on-demand fulfillment.
 
-**Live site:** https://mastertimewaster.shop
+**Live site:** ~~https://mastertimewaster.shop~~ (disabled — redirects to https://mastertimewaster.com)
 
 ## Stack
 
